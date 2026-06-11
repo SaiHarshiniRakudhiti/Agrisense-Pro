@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.joblib
+*.pkl
+*.pt
+backend/app/ml/models/
+
+# Node
+node_modules/
+frontend/build/
+.env.local
+.env.production
+
+# System
+.DS_Store
+*.log
+.pytest_cache/
+.ruff_cache/
